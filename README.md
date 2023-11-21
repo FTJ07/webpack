@@ -14,3 +14,4 @@
 # Loader
     This is used to load file such as css, less, sass, xml etc
     For using loader need to install them
+  ** Loaders are for import file
