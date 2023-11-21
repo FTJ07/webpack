@@ -9,3 +9,8 @@
         Based on file size this work either resource or inline
     4. module/source
         this import whole data as string and than inject it
+
+
+# Loader
+    This is used to load file such as css, less, sass, xml etc
+    For using loader need to install them
